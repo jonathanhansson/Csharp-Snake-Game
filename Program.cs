@@ -5,6 +5,6 @@ class Program
     static void Main()
     {
         SnakeGame sg = new SnakeGame();
-        sg.DrawBoard();
+        sg.RunGame();
     }
 }
